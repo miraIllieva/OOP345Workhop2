@@ -1,0 +1,6 @@
+﻿  StringSet.cpp
+  TimedEvents.cpp
+C:\Users\Lenovo\OneDrive\Desktop\OOP345\workshop2\Wokrshop2\Wokrshop2\TimedEvents.cpp(18,1): error C2589: 'end of file': illegal token on right side of '::'
+C:\Users\Lenovo\OneDrive\Desktop\OOP345\workshop2\Wokrshop2\Wokrshop2\TimedEvents.cpp(16,37): fatal  error C1075: '{': no matching token found
+  w2_p2.cpp
+  Generating Code...
